@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
           backgroundColor: Colors.pinkAccent,
           appBar: AppBar(
-            title: Text('Welcome to Flutter'),
+            title: Text('kontol'),
             backgroundColor: Colors.orange,
           ),
           body: Column(children: <Widget>[

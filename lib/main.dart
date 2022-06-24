@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'First App',
       home: Scaffold(
-          backgroundColor: Colors.pinkAccent,
+          backgroundColor: Color.fromARGB(255, 158, 224, 15),
           appBar: AppBar(
             title: Text('kontol'),
             backgroundColor: Colors.orange,
